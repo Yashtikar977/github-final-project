@@ -1,0 +1,8 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating cf5da85..c4a87e0
+Fast-forward
+Project1/index.html | 250 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 file changed, 250 insertions(+)
