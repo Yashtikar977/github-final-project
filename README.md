@@ -1,4 +1,5 @@
-# P1
+# github-final-project
+
 # Simple Interest Calculator
 
 ## Project Description
