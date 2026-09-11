@@ -6,25 +6,18 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Make your changes and test them.
-4. Commit your changes with a clear message.
-5. Push your branch to your forked repository.
-6. Open a Pull Request.
+3. Make your changes.
+4. Test your changes.
+5. Submit a pull request.
 
 ## Bug Reports
 
-If you find a bug, please report it by providing a clear description of the problem, steps to reproduce it, and any relevant error messages.
-
-## Bug Fixes
-
-Bug fixes are welcome. Please explain what caused the issue and how your changes fix it.
+Please provide a clear description of the bug, steps to reproduce it, and any relevant details.
 
 ## Documentation Improvements
 
-Improvements to documentation are encouraged. Clear and useful documentation helps everyone understand and use the project.
+Documentation improvements are welcome. Please make sure that documentation is clear, accurate, and easy to understand.
 
 ## Enhancements and Ideas
 
-Suggestions for new features, improvements, and other ideas are welcome. Please describe the proposed enhancement and its potential benefits.
-
-Thank you for contributing!
+Suggestions for improvements, new features, and other ideas are welcome.
